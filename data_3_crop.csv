@@ -1,0 +1,126 @@
+Year,Location,Irrigation,Crop Type,Crop Damage,Yield,Observer
+1980.0,Lake Diane,Y,Barley,1.0,1618.37,Mark Henderson
+1980.0,Hillport,Y,Barley,1.0,1728.69,Jacqueline Jones
+1980.0,Spencerborough,N,Barley,0.0,1496.14,Rita Curry
+1981.0,Lake Diane,Y,Oats,1.0,887.85,Karen Moreno
+1981.0,Hillport,Y,Oats,1.0,1028.5,Katie Martinez
+1981.0,Spencerborough,N,Maize,0.0,1196.15,Ronald Horn
+1982.0,Lake Diane,Y,Maize,1.0,1306.86,Roberta Rowe
+1982.0,Hillport,Y,Oats,0.0,1034.03,Michael Lopez
+1982.0,Spencerborough,N,Maize,0.0,1194.8,Ronald Horn
+1983.0,Lake Diane,Y,Barley,1.0,1621.63,Roberta Rowe
+1983.0,Hillport,Y,Maize,1.0,1430.27,Michelle Vargas
+1983.0,Spencerborough,N,Maize,0.0,1195.85,Ronald Horn
+1984.0,Lake Diane,Y,Barley,1.0,1611.15,Roberta Rowe
+1984.0,Hillport,Y,Oats,1.0,,
+1984.0,Hillport,Y,Oats,1.0,1021.16,Sandra Mckenzie
+1984.0,Spencerborough,N,Maize,0.0,1195.78,Ronald Horn
+1985.0,Hillport,Y,,0.0,1437.54,Sandra Mckenzie
+1985.0,Hillport,Y,Maize,0.0,1437.54,Sandra Mckenzie
+1985.0,Spencerborough,No,Maize,0.0,1193.03,Sean Gibson
+1985.0,Lake Diane,Y,Barley,0.0,1627.35,Jackson Larson
+1986.0,Spencerborough,N,Oats,0.0,792.16,Sean Gibson
+1986.0,Lake Diane,Y,Barley,1.0,1617.0,Melinda Hunt
+1986.0,Hillport,Y,Maize,1.0,1437.14,Robert Caldwell
+1987.0,Spencerborough,N,Maize,0.0,1194.62,Sean Gibson
+1987.0,Lake Diane,Y,Barley,0.0,1638.87,Melinda Hunt
+1987.0,Hillport,Y,Oats,0.0,1039.92,Derek Alexander
+1988.0,Spencerborough,N,Maize,0.0,1193.61,Lindsay Craig
+1988.0,Lake Diane,Y,Oats,1.0,925.86,Melinda Hunt
+1988.0,Hillport,Y,Oats,1.0,1032.85,Derek Alexander
+,Hillport,Y,Oats,1.0,1032.85,Derek Alexander
+1989.0,Spencerborough,N,Barley,0.0,1495.08,Kiara Bates
+1989.0,Lake Diane,Y,Oats,1.0,933.23,Dr. Christina Jackson DVM
+1989.0,Hillport,Y,Maize,1.0,1429.98,Jillian Higgins
+1990.0,Spencerborough,N,Maize,0.0,1196.16,Kiara Bates
+1990.0,Hillport,Y,Barley,1.0,1735.46,Jillian Higgins
+1990.0,Lake Diane,Y,Maize,1.0,1319.83,Dr. Christina Jackson DVM
+1991.0,Hillport,Y,Maize,1.0,1437.23,Ashley Thompson
+1991.0,Spencerborough,N,Maize,0.0,1189.82,Taylor Briggs
+1991.0,Lake Diane,Y,Barley,0.0,1623.49,Belinda Ortiz
+1992.0,Hillport,Y,Maize,0.0,1441.8,Trevor Mitchell
+1992.0,Spencerborough,N,Oats,0.0,794.69,Katherine Mcbride
+1992.0,Lake Diane,Y,Oats,0.0,934.39,Belinda Ortiz
+1993.0,Hillport,Y,Maize,0.0,1446.97,Francisco Williams
+1993.0,Spencerborough,N,Oats,0.0,790.43,Jeffrey Huff
+1993.0,Lake Diane,Y,Barley,0.0,1644.74,Roy Adams
+1994.0,Hillport,Y,Maize,0.0,1447.96,Kathleen Thompson
+1994.0,Spencerborough,N,Maize,0.0,1192.74,Jeffrey Huff
+1994.0,Lake Diane,Y,Barley,0.0,1651.84,Sheila Robinson
+1995.0,Hillport,Y,Barley,1.0,1749.6,Kaitlyn Russell
+1995.0,Spencerborough,N,Barley,0.0,1490.65,Joshua Wilson
+1995.0,Lake Diane,Y,Maize,0.0,1359.88,Stephen Moore
+1996.0,Lake Diane,Y,Maize,0.0,1358.39,Lisa Stevens
+1996.0,Hillport,Y,Maize,0.0,1441.55,Timothy Owens
+1996.0,Spencerborough,N,Maize,0.0,1188.6,Lori Hayes
+1997.0,Lake Diane,Y,Maize,1.0,1356.69,Lisa Stevens
+1997.0,Hillport,Y,Oats,0.0,1045.84,Timothy Owens
+1997.0,Spencerborough,N,Oats,0.0,792.91,Lori Hayes
+1998.0,Lake Diane,Y,Barley,0.0,1656.19,Lisa Stevens
+1998.0,Hillport,Y,Maize,0.0,1455.39,Judy Bryant
+1998.0,Spencerborough,N,Oats,0.0,788.57,Kevin Patterson
+1999.0,Hillport,Y,Maize,0.0,1449.08,Taylor Garner
+1999.0,Spencerborough,N,Maize,0.0,1188.97,Joy Stewart
+1999.0,Lake Diane,Y,Oats,0.0,950.78,Alex Reilly
+2000.0,Spencerborough,N,Oats,0.0,786.95,Joy Stewart
+2000.0,Hillport,Y,Oats,0.0,1049.0,Ashley Boyd
+2000.0,Lake Diane,Y,Oats,0.0,978.44,David Atkins
+2001.0,Spencerborough,N,Barley,0.0,1487.92,Terry Wolf
+2001.0,Hillport,Y,Oats,0.0,1044.92,Ashley Boyd
+2001.0,Lake Diane,Y,Oats,0.0,961.77,Emily Horn
+2002.0,Lake Diane,Y,Maize,0.0,1377.87,Victoria Smith
+2002.0,Spencerborough,N,Barley,0.0,1484.41,Joel Munoz
+2002.0,Spencerborough,,Barley,,1484.41,Joel Munoz
+2002.0,Hillport,Y,Barley,0.0,1757.75,Kevin Johnson
+2003.0,Hillport,Y,Oats,0.0,1055.6,Kevin Johnson
+2003.0,Lake Diane,Y,Barley,0.0,1667.34,Sharon Freeman
+2003.0,Spencerborough,N,Oats,0.0,787.95,Joel Munoz
+2004.0,Spencerborough,N,Maize,0.0,1183.04,Debra Meyer
+2004.0,Hillport,Y,Barley,0.0,1751.43,Kevin Johnson
+2004.0,Lake Diane,Y,Maize,0.0,1367.38,Vanessa Harris
+2005.0,Lake Diane,Y,Maize,1.0,1351.2,Vanessa Harris
+2005.0,Spencerborough,N,Oats,1.0,783.83,Meghan Rivera
+2005.0,Hillport,Y,Barley,0.0,1753.18,Elijah Hull
+2006.0,Lake Diane,Y,Oats,0.0,986.68,Vanessa Harris
+2006.0,Hillport,Y,Oats,0.0,1054.08,Elijah Hull
+2006.0,Spencerborough,N,Maize,1.0,1180.92,Jennifer Cohen
+2007.0,Lake Diane,Y,Maize,0.0,1375.87,Vicki Moore
+2007.0,Spencerborough,N,Maize,1.0,1179.23,Jennifer Cohen
+2007.0,Hillport,Y,Maize,0.0,1470.19,Elizabeth Lewis
+2008.0,Hillport,Y,Maize,0.0,1462.14,Elizabeth Lewis
+2008.0,Spencerborough,N,Oats,0.0,785.96,John Myers
+2008.0,Lake Diane,Y,Barley,0.0,1675.85,Kristin Lawrence
+2009.0,Hillport,Y,Oats,0.0,1065.91,Nicholas Huerta
+2009.0,Spencerborough,N,Oats,0.0,780.81,John Myers
+2009.0,Lake Diane,Y,Oats,0.0,978.11,Kristin Lawrence
+2010.0,Hillport,Y,Maize,0.0,1463.55,Kelly Taylor
+2010.0,Spencerborough,N,Barley,1.0,1484.32,Crystal Johnson
+2010.0,Lake Diane,yes,Maize,0.0,1381.0,Kristin Lawrence
+2011.0,Hillport,Y,Barley,0.0,1771.76,Kelly Taylor
+2011.0,Spencerborough,N,Maize,1.0,1180.22,Crystal Johnson
+2011.0,Lake Diane,Y,Maize,0.0,1397.78,Kristin Lawrence
+2012.0,Lake Diane,Y,Maize,0.0,1395.52,Thomas Roberts
+2012.0,,Y,Oats,0.0,1060.8,Kelly Taylor
+2012.0,Hillport,Y,Oats,0.0,1060.8,Kelly Taylor
+2012.0,Spencerborough,N,Oats,1.0,775.97,Meghan Marquez
+2013.0,Spencerborough,N,Maize,1.0,1180.19,Meghan Marquez
+2013.0,Hillport,Y,Barley,0.0,1769.99,Shawn Carrillo
+2013.0,Lake Diane,Y,Oats,0.0,991.49,Thomas Roberts
+2014.0,Hillport,Y,Barley,0.0,1757.87,Shawn Carrillo
+2014.0,Spencerborough,N,Oats,1.0,774.21,Meghan Marquez
+2014.0,Lake Diane,Y,Oats,0.0,983.52,Jacqueline Kane
+2015.0,Hillport,Y,Maize,0.0,1469.75,Angela Reed
+2015.0,Spencerborough,N,Barley,1.0,1479.76,Meghan Marquez
+2015.0,Lake Diane,Y,Maize,0.0,1395.32,Derrick White
+2016.0,Lake Diane,Y,Oats,0.0,1005.44,Derrick White
+2016.0,Hillport,Y,Maize,0.0,1465.72,Angela Reed
+2016.0,Spencerborough,N,Barley,1.0,1477.78,Julia Ramos
+2017.0,Lake Diane,Y,Barley,0.0,1704.05,Derrick White
+2017.0,Spencerborough,N,Oats,1.0,778.54,Julia Ramos
+2017.0,Hillport,Y,Barley,0.0,1769.17,Angela Reed
+2018.0,Hillport,Y,Oats,0.0,1077.83,Katie Jones
+2018.0,Lake Diane,Y,Maize,0.0,1401.02,Diana Morgan
+2018.0,Spencerborough,N,Maize,1.0,1171.27,Julia Ramos
+2019.0,Spencerborough,N,Maize,1.0,1173.92,Andre Wood
+2019.0,Lake Diane,Y,Barley,0.0,1690.27,Diana Morgan
+2019.0,Hillport,Y,Maize,0.0,1475.36,Erin Bowen
